@@ -1,5 +1,12 @@
 ### Olá 👋
 
+<p align="center">
+    <a href="https://www.linkedin.com/in/deivisonfernandes/">
+        <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=httpsdfaa&style=for-the-badge&color=lightgrey"/>
+</p>
+
 - 🔭 Atualmente eu estudo Análise e Desenvolvimento de Sistemas (Finalização em 6 meses)
 - 🌱 Atualmente estou aprendendo as linguagens Python e R
 
