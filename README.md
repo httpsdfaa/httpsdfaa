@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**httpsdfaa/httpsdfaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente eu estudo Análise e Desenvolvimento de Sistemas (Finalização em 6 meses)
+- 🌱 Atualmente estou aprendendo as linguagens Python e R
 
-Here are some ideas to get you started:
+## Eu sou Deivison Fernandes, e sou estudante de ADS e no momento focando em Machine Learning e Inteligência Artificial sobre a linguagem de programação Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=httpsdfaa&layout=compact)
+#
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=httpsdfaa&show_icons=true&theme=transparent)
+
+##
+<div style="display: inline_block"><br>
+  <img align="center" alt="Deivison-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Deivison-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Deivison-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Deivison-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Deivison-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
