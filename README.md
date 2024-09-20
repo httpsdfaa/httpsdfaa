@@ -7,10 +7,9 @@
     <img src="https://komarev.com/ghpvc/?username=httpsdfaa&style=for-the-badge&color=lightgrey"/>
 </p>
 
-- 🔭 Atualmente eu estudo Análise e Desenvolvimento de Sistemas (Finalização em 6 meses)
-- 🌱 Atualmente estou aprendendo as linguagens Python e R
+- 🔭 Formado em Análise e Desenvolvimento de Sistemas (Finalização este ano)
 
-## Eu sou Deivison Fernandes, e sou estudante de ADS e no momento focando em Machine Learning e Inteligência Artificial sobre a linguagem de programação Python
+## Eu sou Deivison Fernandes, formado em ADS e Desenvolvedor Web
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=httpsdfaa&layout=compact)
 #
