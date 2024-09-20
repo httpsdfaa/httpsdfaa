@@ -23,15 +23,15 @@
   <img align="center" alt="Deivison-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Deivison-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-/*<img align="center" alt="Deivison-Python" height="30" width="40" src="https://raw.githubusercontent.com/httpsdfaa/images-icons/main/anaconda.png">
+<!-- <img align="center" alt="Deivison-Python" height="30" width="40" src="https://raw.githubusercontent.com/httpsdfaa/images-icons/main/anaconda.png">
 <img align="center" alt="Deivison-Python" height="30" width="40" src="https://raw.githubusercontent.com/httpsdfaa/images-icons/main/bootstrap.png">
 <img align="center" alt="Deivison-Python" height="30" width="40" src="https://raw.githubusercontent.com/httpsdfaa/images-icons/main/jupyter.png">
 <img align="center" alt="Deivison-Python" height="30" width="40" src="https://raw.githubusercontent.com/httpsdfaa/images-icons/main/mongodb.png">
 <img align="center" alt="Deivison-Python" height="30" width="40" src="https://raw.githubusercontent.com/httpsdfaa/images-icons/main/mysql.png">
 <img align="center" alt="Deivison-Python" height="30" width="40" src="https://raw.githubusercontent.com/httpsdfaa/images-icons/main/nodejs.png">
 <img align="center" alt="Deivison-Python" height="30" width="40" src="https://raw.githubusercontent.com/httpsdfaa/images-icons/main/numpy.png">
-<img align="center" alt="Deivison-Python" height="30" width="40" src="https://raw.githubusercontent.com/httpsdfaa/images-icons/main/pandas.png">*/
+<img align="center" alt="Deivison-Python" height="30" width="40" src="https://raw.githubusercontent.com/httpsdfaa/images-icons/main/pandas.png">
 <img align="center" alt="Deivison-Python" height="30" width="40" src="https://raw.githubusercontent.com/httpsdfaa/images-icons/main/selenium.png">
-<img align="center" alt="Deivison-Python" height="30" width="40" src="https://raw.githubusercontent.com/httpsdfaa/images-icons/main/tailwindcss.png">
+<img align="center" alt="Deivison-Python" height="30" width="40" src="https://raw.githubusercontent.com/httpsdfaa/images-icons/main/tailwindcss.png"> -->
 
 </div>
