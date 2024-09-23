@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-<i>Coding is my way of turning ideas into real solutions.</i>&nbsp;
+<i>Coding is my way of turning ideas into real solutions</i>&nbsp;
 </div>
 
 ## <p align="center">Desenvolvedor Web FullStack com foco em NodeJS e JavaScript</p>
