@@ -1,50 +1,74 @@
-### <h1 align="center">Olá 👋</h1>
+## 👋 Olá, eu sou o Deivison! 
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/deivisonfernandes/">
-        <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=httpsdfaa&style=for-the-badge&color=lightgrey"/>
-</p>
+🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
+🔐 Estudante autodidata de **Cibersegurança**, com foco em **Red Team**  
+💼 Em busca de **oportunidades na área de segurança ofensiva**  
 
-<div align="center">
-<i>Coding is my way of turning ideas into real solutions</i>&nbsp;
-</div>
+---
+![Linux](https://img.shields.io/badge/Linux-Arch-blue?logo=linux)
+![Wireshark](https://img.shields.io/badge/Wireshark-Protocol%20Analysis-blue)
+![Metasploit](https://img.shields.io/badge/Metasploit-Exploit%20Framework-critical)
+![VS Code](https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode)
+![Git](https://img.shields.io/badge/Git-Version%20Control-orange?logo=git)
 
-## <p align="center">Desenvolvedor Web FullStack com foco em NodeJS e JavaScript</p>
+---
 
-<div align="center">
-    <img width=38% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpsdfaa&layout=compact" />
-    <img width=50% align="center" src="https://github-readme-stats.vercel.app/api?username=httpsdfaa&show_icons=true&theme=white" />
-</div>
+### 🧠 Filosofia
+> “O hacker ético não quebra sistemas, quebra limites.”  
 
-## My Skills
-<div style="display: inline_block"><br>
-  <img align="center" alt="Deivison-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Deivison-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Deivison-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Deivison-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Deivison-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-<br />
+---
 
-### Programming and Development:
+### 🛠️ Ambiente e prática
+- Experiência prática com **labs de pen testing** usando:
+  - 🐱‍💻 Kali Linux + Metasploitable2
+  - 🧪 TryHackMe (nível introdutório)
+  - ⚙️ Ambientes próprios montados no **Arch Linux** (instalado via CLI do zero!)
+- Construção contínua de um ambiente **Linux-native** voltado a testes de segurança ofensiva  
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black)&nbsp;
-![ReactJS](https://img.shields.io/badge/Reactjs-61DAFB?style=for-the-badge&logo=react&logoColor=black)&nbsp;
-![MySql](https://img.shields.io/badge/mysql-F7DF1E?style=for-the-badge&logo=mysql&logoColor=black)&nbsp;
-![MongoDb](https://img.shields.io/badge/mongodb-F7DF1E?style=for-the-badge&logo=mongodb&logoColor=black)&nbsp;
+---
 
-### Workstation Tools:
+### ⚔️ Ferramentas que já explorei
+| Categoria | Ferramentas |
+|----------|-------------|
+| Scanning | `nmap` |
+| Sniffing / Análise de tráfego | `wireshark` |
+| Exploração | `metasploit` |
+| CLI/Linux | `zsh`, `pacman`, `iptables`, `netstat`, `dig`, `ping`, `whois` |
 
-![VScode](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+---
 
-### Design Tools:
+### 📚 Em aprendizado
+- Fundamentos de redes TCP/IP e segurança de redes
+- Reconhecimento, enumeração e exploração manual
+- Princípios de engenharia reversa e privilege escalation
+- Leitura e prática com materiais de Red Team (CTFs, writeups, documentações técnicas)
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
+---
+
+### 🧩 Interesses em Segurança
+- Ethical Hacking 🧠  
+- Montagem de laboratórios práticos 💻  
+- Segurança de sistemas baseados em Linux 🐧  
+- Privilege escalation e reconhecimento de sistemas em redes reais  
+
+---
+
+### 🎯 Objetivo de Carreira
+Crescer como **Red Team Hacker**, usando minha curiosidade, disciplina e experiência prática para contribuir com times de segurança ofensiva, resposta a incidentes e defesa proativa.
+
+---
+
+### 🤝 Vamos nos conectar?
+- 📫 Email: deivisoncode@gmail.com
+- 🧠 [GitHub](https://github.com/httpsdfaa)
+
+---
+
+### 📊 GitHub Stats
+
+![Deivison GitHub Stats](https://github-readme-stats.vercel.app/api?username=httpsdfaa&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=httpsdfaa&layout=compact&theme=radical)
+
+---
+
+💬 *Sempre em modo aprendizagem. Falhas me constroem, o terminal me guia, a ética me sustenta.*
